@@ -4,17 +4,17 @@ A simple turn-based battle game built with Python. Two players take turns attack
 
 # 📋 How It Works
 
-## Each player starts with 100 HP.
-## Players take turns attacking by pressing Enter.
-## Each attack does **random damage between 10 and 20** HP.
-## The game continues until one player's HP falls to 0 or below.
-## The winner is announced at the end.
+Each player starts with 100 HP.
+Players take turns attacking by pressing Enter.
+Each attack does **random damage between 10 and 20** HP.
+The game continues until one player's HP falls to 0 or below.
+The winner is announced at the end.
 
 # 🛠️ How to Run
 
-## 1. Make sure you have Python 3 installed.
-## 2. Save the game script in a file named `battle_game.py`.
-## 3. Run the game:
+1. Make sure you have Python 3 installed.
+2. Save the game script in a file named `battle_game.py`.
+3. Run the game:
 
 ```
 
@@ -23,7 +23,7 @@ python battle_game.py
 
 ```
 
-## 4. Follow the on-screen prompts and enjoy the battle!
+4. Follow the on-screen prompts and enjoy the battle!
 
 # 📦 Requirements
 
@@ -35,17 +35,17 @@ No external libraries required. Uses built-in modules:
 
 # 🎯 Features
 
-## Randomized attack damage for unpredictability.
-## Turn-based gameplay.
-## Simple text-based UI in the terminal.
-## Fun sound emojis to enhance the feel (💥⚔️🏆).
+Randomized attack damage for unpredictability.
+Turn-based gameplay.
+Simple text-based UI in the terminal.
+Fun sound emojis to enhance the feel (💥⚔️🏆).
 
 # 🔧 Possible Improvements
 
-## Add special abilities or critical hits.
-## Include a healing option.
-## Add character selection.
-## Convert to a graphical game using `tkinter` or `pygame`.
+Add special abilities or critical hits.
+Include a healing option.
+Add character selection.
+Convert to a graphical game using `tkinter` or `pygame`.
 
 # 👨‍💻 Author
 
