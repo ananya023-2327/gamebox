@@ -2,7 +2,7 @@
 
 Welcome to my personal gamebox repository! This is where I keep a collection of simple, fun mini-games that I enjoy playing and tinkering with. Think of it as my little arcade corner, built with Python. I'm constantly adding new ideas and refining existing ones, so expect this repository to be updated quite often!
 
-## the games inside
+## The Games Inside
 
 Currently, my gamebox features three classic mini-games:
 
